@@ -1,0 +1,8 @@
+/* External CSS: Style for background and hover effect for links */
+body {
+    background-color: lightgray; /* Change background color of the webpage */
+}
+
+a:hover {
+    color: orange; /* Style link on hover */
+}
